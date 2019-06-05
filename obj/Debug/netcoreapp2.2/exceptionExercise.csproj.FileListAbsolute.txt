@@ -1,0 +1,11 @@
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\bin\Debug\netcoreapp2.2\exceptionExercise.deps.json
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\bin\Debug\netcoreapp2.2\exceptionExercise.runtimeconfig.json
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\bin\Debug\netcoreapp2.2\exceptionExercise.runtimeconfig.dev.json
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\bin\Debug\netcoreapp2.2\exceptionExercise.dll
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\bin\Debug\netcoreapp2.2\exceptionExercise.pdb
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\obj\Debug\netcoreapp2.2\exceptionExercise.csprojAssemblyReference.cache
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\obj\Debug\netcoreapp2.2\exceptionExercise.csproj.CoreCompileInputs.cache
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\obj\Debug\netcoreapp2.2\exceptionExercise.AssemblyInfoInputs.cache
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\obj\Debug\netcoreapp2.2\exceptionExercise.AssemblyInfo.cs
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\obj\Debug\netcoreapp2.2\exceptionExercise.dll
+C:\Users\milliyon\workspace\backend\csharp\exceptionExercise\obj\Debug\netcoreapp2.2\exceptionExercise.pdb
